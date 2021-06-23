@@ -7,3 +7,6 @@ Update the list below to provide the information about your design:
 * **Filename:** *list the name of the file you submitted to the `tshirt_designs` folder*
 * **Designer Names:** *list the name(s) the person or people who worked on the design*
 * **Designer Slack ID:** *list the Slack ID(s) of the person or people who worked on the design*
+
+## T-Shirt Design list
+*Copy and paste the bullet points below and update to reflect the details on your submission.*
