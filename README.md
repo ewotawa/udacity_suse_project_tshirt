@@ -16,3 +16,11 @@ This presentation includes the details on what resources you can use and the cal
 
 ### Learn more about the Cloud Native Foundations Scholarship
 You can read more about the Cloud Native Foundations Scholarship at [the program site](https://sites.google.com/udacity.com/suse-cloud-native-foundations/home?authuser=0).
+
+### Project Timeline
+#### Until July 5, 2021
+Submit designs to the Project T-Shirt GitHub repository (see directions above).
+#### July 7-12, 2021
+Voting open on submissions.
+#### July 19-31, 2021
+Open the store for purchases.
