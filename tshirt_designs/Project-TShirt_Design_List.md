@@ -10,3 +10,4 @@ Update the list below to provide the information about your design:
 
 ## T-Shirt Design list
 *Copy and paste the bullet points below and update to reflect the details on your submission.*
+* [Project Submission](https://github.com/EO4wellness/udacity_suse_project_tshirt/blob/master/tshirt_designs/EO4Wellness_SUSE-scholarship-tshirt-design1.jpg)
