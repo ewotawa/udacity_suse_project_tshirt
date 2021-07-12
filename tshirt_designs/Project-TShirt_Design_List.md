@@ -13,7 +13,11 @@ Update the list below to provide the information about your design:
 
 
 
+
 * **Title:** *Waswahili*
 * **Filename:** *waswahili.png*
 * **Designer Names:** *Charity Mbisi*
 * **Designer Slack ID:** *Charity.Mbisi*
+
+* [Project Submission](https://github.com/EO4wellness/udacity_suse_project_tshirt/blob/master/tshirt_designs/EO4Wellness_SUSE-scholarship-tshirt-design1.jpg)
+
