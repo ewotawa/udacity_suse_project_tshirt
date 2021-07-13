@@ -27,3 +27,10 @@ Submission
 * **Designer Slack ID:** Dawn
 * [Project Submission](https://github.com/EO4wellness/udacity_suse_project_tshirt/blob/master/tshirt_designs/EO4Wellness_SUSE-scholarship-tshirt-design1.jpg)
 
+Submission
+
+* **Title:** *Udacity X Suse*
+* **Filename:** *Rishabh_Aggarwal_tshirt_design_udacity.jpg*
+* **Designer Names:**Rishabh Aggarwal**
+* **Designer Slack ID:** *Rishabh.Aggarwal*
+
