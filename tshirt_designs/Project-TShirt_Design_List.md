@@ -12,12 +12,14 @@ Update the list below to provide the information about your design:
 *Copy and paste the bullet points below and update to reflect the details on your submission.*
 
 
-
+Submission
 
 * **Title:** *Waswahili*
 * **Filename:** *waswahili.png*
 * **Designer Names:** *Charity Mbisi*
 * **Designer Slack ID:** *Charity.Mbisi*
+
+Submission
 
 * **Title:** 
 * **Filename:** *E04Wellness_SUSE-scholarship-tshirt-design.jpg*
