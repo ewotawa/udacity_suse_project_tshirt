@@ -19,5 +19,9 @@ Update the list below to provide the information about your design:
 * **Designer Names:** *Charity Mbisi*
 * **Designer Slack ID:** *Charity.Mbisi*
 
+* **Title:** 
+* **Filename:** *E04Wellness_SUSE-scholarship-tshirt-design.jpg*
+* **Designer Names:** Dawn
+* **Designer Slack ID:** Dawn
 * [Project Submission](https://github.com/EO4wellness/udacity_suse_project_tshirt/blob/master/tshirt_designs/EO4Wellness_SUSE-scholarship-tshirt-design1.jpg)
 
