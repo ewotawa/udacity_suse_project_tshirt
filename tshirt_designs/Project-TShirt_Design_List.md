@@ -34,3 +34,12 @@ Submission
 * **Designer Names:**Rishabh Aggarwal**
 * **Designer Slack ID:** *Rishabh.Aggarwal*
 
+Submission
+
+* **Title:** *Suse_Scholarship_Tshirt*
+* **Filename:** *Suse_Scholarship_Tshirt.png*
+* **Designer Names:** *Rutuja*
+* **Designer Slack ID:** *rutuja*
+* [My Design](https://github.com/rutujaingole/udacity_suse_project_tshirt/blob/master/tshirt_designs/Suse_Scholarship_Tshirt.png)
+
+
