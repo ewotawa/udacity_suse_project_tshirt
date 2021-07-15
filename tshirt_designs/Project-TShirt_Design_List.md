@@ -34,3 +34,10 @@ Submission
 * **Designer Names:**Rishabh Aggarwal**
 * **Designer Slack ID:** *Rishabh.Aggarwal*
 
+Submission
+
+* **Title:** *Udacity Portal*
+* **Filename:** *Nirupama.Singh_Udacity_poster.jpg*
+* **Designer Names:**Nirupama Singh**
+* **Designer Slack ID:** *Nirupama.Singh*
+
