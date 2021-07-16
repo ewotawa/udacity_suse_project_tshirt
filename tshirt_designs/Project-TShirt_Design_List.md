@@ -31,6 +31,12 @@ Submission
 
 * **Title:** *Udacity X Suse*
 * **Filename:** *Rishabh_Aggarwal_tshirt_design_udacity.jpg*
-* **Designer Names:**Rishabh Aggarwal**
+* **Designer Names:** *Rishabh Aggarwal*
 * **Designer Slack ID:** *Rishabh.Aggarwal*
 
+Submission
+
+* **Title:** *I Suse Udacity*
+* **Filename:** *fatimaezzahra.ouhmid_udacity_tee.png*
+* **Designer Names:** *Fatima-Ezzahra Ouhmid*
+* **Designer Slack ID:** *fatimaezzahra.ouhmid*
