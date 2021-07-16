@@ -31,10 +31,11 @@ Submission
 
 * **Title:** *Udacity X Suse*
 * **Filename:** *Rishabh_Aggarwal_tshirt_design_udacity.jpg*
-* **Designer Names:**Rishabh Aggarwal**
+* **Designer Names:** *Rishabh Aggarwal*
 * **Designer Slack ID:** *Rishabh.Aggarwal*
 
 Submission
+
 
 * **Title:** *Suse_Scholarship_Tshirt*
 * **Filename:** *Suse_Scholarship_Tshirt.png*
@@ -42,4 +43,10 @@ Submission
 * **Designer Slack ID:** *rutuja*
 * [My Design](https://github.com/rutujaingole/udacity_suse_project_tshirt/blob/master/tshirt_designs/Suse_Scholarship_Tshirt.png)
 
+Submission
+
+* **Title:** *I Suse Udacity*
+* **Filename:** *fatimaezzahra.ouhmid_udacity_tee.png*
+* **Designer Names:** *Fatima-Ezzahra Ouhmid*
+* **Designer Slack ID:** *fatimaezzahra.ouhmid*
 
