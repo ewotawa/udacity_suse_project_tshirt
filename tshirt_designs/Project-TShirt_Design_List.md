@@ -36,6 +36,12 @@ Submission
 
 Submission
 
+* **Title:** *Udacity Portal*
+* **Filename:** *Nirupama.Singh_Udacity_poster.jpg*
+* **Designer Names:**Nirupama Singh**
+* **Designer Slack ID:** *Nirupama.Singh*
+
+Submission
 
 * **Title:** *Suse_Scholarship_Tshirt*
 * **Filename:** *Suse_Scholarship_Tshirt.png*
@@ -49,4 +55,5 @@ Submission
 * **Filename:** *fatimaezzahra.ouhmid_udacity_tee.png*
 * **Designer Names:** *Fatima-Ezzahra Ouhmid*
 * **Designer Slack ID:** *fatimaezzahra.ouhmid*
+
 
