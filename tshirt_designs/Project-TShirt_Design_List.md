@@ -14,6 +14,14 @@ Update the list below to provide the information about your design:
 
 Submission
 
+* **Title:** *CI/CD from SUSE*
+* **Filename:** *cicd-chromilo.amin.png*
+* **Designer Names:** *Chromilo Amin*
+* **Designer Slack ID:** *Chromilo.Amin*
+
+
+Submission
+
 * **Title:** *Waswahili*
 * **Filename:** *waswahili.png*
 * **Designer Names:** *Charity Mbisi*
