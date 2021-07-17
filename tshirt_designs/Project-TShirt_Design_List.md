@@ -56,4 +56,9 @@ Submission
 * **Designer Names:** *Fatima-Ezzahra Ouhmid*
 * **Designer Slack ID:** *fatimaezzahra.ouhmid*
 
+Submission
 
+* **Title:** *Cloud and Beyond*
+* **Filename:** *falberto_t-shirt_Devops.png*
+* **Designer Names:** *Alberto Pardo*
+* **Designer Slack ID:** *Alberto.Pardo*
