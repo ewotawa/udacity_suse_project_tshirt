@@ -59,6 +59,6 @@ Submission
 Submission
 
 * **Title:** *Cloud and Beyond*
-* **Filename:** *falberto_t-shirt_Devops.png*
+* **Filename:** *alberto_t-shirt_Devops.png*
 * **Designer Names:** *Alberto Pardo*
 * **Designer Slack ID:** *Alberto.Pardo*
