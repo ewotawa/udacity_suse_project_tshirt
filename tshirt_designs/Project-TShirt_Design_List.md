@@ -85,3 +85,10 @@ Submission
 * **Designer Name:** *Abhimanyu Sharma*
 * **Designer Slack ID:** *Abhimanyu.Sharma*
 * **Link:** [https://github.com/017abhimanyu/Abhimanyu.Sharma/blob/main/6.png](https://github.com/017abhimanyu/Abhimanyu.Sharma/blob/main/6.png)
+
+Submission
+
+* **Title:** *Love SUSE & Udacity*
+* **Filename:** *fadwa_design/fad_logo.png*
+* **Designer Names:** *Fadwa Fuad*
+* **Designer Slack ID:** *Fadwa.Fuad*
