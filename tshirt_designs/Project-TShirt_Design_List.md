@@ -70,3 +70,10 @@ Submission
 * **Filename:** *alberto_t-shirt_Devops.png*
 * **Designer Names:** *Alberto Pardo*
 * **Designer Slack ID:** *Alberto.Pardo*
+
+Submission
+
+* **Title:** *Udacity Project T-shirt Design*
+* **Filename:** *Noel.Lou_Design/Noel.Lou_Front_Design.png*
+* **Designer Names:** *Noel Lou*
+* **Designer Slack ID:** *Noel.Lou*
