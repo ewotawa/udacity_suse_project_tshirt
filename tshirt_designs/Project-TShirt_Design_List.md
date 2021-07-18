@@ -77,3 +77,11 @@ Submission
 * **Filename:** *Noel.Lou_Design/Noel.Lou_Front_Design.png*
 * **Designer Names:** *Noel Lou*
 * **Designer Slack ID:** *Noel.Lou*
+
+Submission
+
+* **Title:** *Udacity Project T-Shirt Design*
+* **Filename:** *6.png*
+* **Designer Name:** *Abhimanyu Sharma*
+* **Designer Slack ID:** *Abhimanyu.Sharma*
+* **Link:** [https://github.com/017abhimanyu/Abhimanyu.Sharma/blob/main/6.png](https://github.com/017abhimanyu/Abhimanyu.Sharma/blob/main/6.png)
